@@ -28,7 +28,7 @@
 
     "custom/launch_thunderbird": {
         "format": "󰇰",
-        "on-click": "thunderbird",
+        "on-click": "evolution",
         "tooltip": false
     },
 
