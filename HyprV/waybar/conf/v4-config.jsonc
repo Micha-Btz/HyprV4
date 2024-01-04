@@ -7,13 +7,12 @@
     "gtk-layer-shell": true,
     "height": 20,
     "modules-left": [
-        "custom/power_btn",
-        "custom/lock_screen",
         "hyprland/workspaces"
     ],
     "modules-center": [
         "idle_inhibitor",
         "clock",
+        "custom/lock_screen",
         "custom/updates"
     ],
     "modules-right": [
@@ -27,7 +26,8 @@
         "battery",
         "hyprland/language",
         "custom/myhyprv",
-        "custom/light_dark"
+        "custom/light_dark",
+        "custom/power_btn"
     ],
     
     "include": [
@@ -75,11 +75,7 @@
             "3": [],
             "4": [],
             "5": [],
-            "6": [],
-            "7": [],
-            "8": [],
-            "9": [],
-            "10": []
+            "6": []
         }
     },
 
